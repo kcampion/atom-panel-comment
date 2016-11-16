@@ -5,17 +5,39 @@
 @import "ui-variables";
 
 .panel-comment {
-  width: 150px;
-  background-color: black;
+	width: 200px;
+  height: 100%;
+  padding: 4px;
+  position: relative;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .message{
   font-size: 20px;
   color: white;
   text-align: center;
+	// position: absolute;
+  // z-index: 1;
+
 }
 .commentary{
-  color: white;
-  font-size: 12px;
-  text-align: center;
+  width: 170px	;
+	margin-bottom: 5 px;
+	color: rgb(37, 142, 175);
+	font-size: 14px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: justify;
+	word-wrap: break-word;
+}
+
+.commentary .title {
+
+}
+
+#title {
+  color: blue;
+  font-size: 13 px;
+  font-weight: bolder;
 }

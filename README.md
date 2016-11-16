@@ -24,7 +24,10 @@ Thanks to @kcampion for his time
       - find the function by a querry_selector
       - show the specific fonction
 
-/**
-* Test
-*  !
-*/
+
+
+## Parsing algo :
+
+- Parsing text of the buffer.
+- Get the scope. Function Type.
+- This is why I get the Div of the tree view. To parse
