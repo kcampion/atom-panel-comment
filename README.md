@@ -12,12 +12,12 @@ Thanks to @kcampion for his time
 
 ## Work with :
 
-- [ ] most of langage with block Documentation
-- [ ] inline commentary for JS // JSX
+- [x] most of langage with block Documentation
+- [x] inline commentary for JS // JSX
 
 ## To Do :
 
 - [ ] Improve the order of the commentary
-- [ ] Improve CSS ! Graphist needed ahah
+- [ ] Improve CSS ! Graphist needed ah ah
 - [ ] Automacly relaunch when file change
 - [ ] Make it possible for strange comment, (aka ruby )
