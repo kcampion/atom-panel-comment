@@ -8,7 +8,7 @@ Thanks to @kcampion for his time
 
 ## Feature :
 
-- [x] On cursor move refreshing || *Can be on screen change*
+- [x] On cursor move refreshing
 
 ## Work with :
 
