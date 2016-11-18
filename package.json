@@ -1,17 +1,29 @@
 {
-  "name": "pannel-comment",
-  "main": "./lib/pannel-comment",
-  "version": "0.0.0",
+  "name": "atom-panel-comment",
+  "main": "./lib/panel-comment",
+  "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "pannel-comment:toggle"
+    "atom-workspace": "panel-comment:toggle"
   },
-  "repository": "https://github.com/atom/pannel-comment",
+  "repository": "https://github.com/kcampion/atom-panel-comment",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.13.0"
   },
   "dependencies": {
-  }
+  },
+  "author": {
+    "name": "Kevin Campion",
+    "email": "campion.kevin@gmail.com",
+    "url": "https://github.com/kcampion"
+  },
+  "contributors": [
+    {
+      "name": "Lucas Geitner",
+      "email": "lucas.geitner@outlook.com",
+      "url": "https://github.com/Lucas-Geitner"
+    }
+  ]
 }

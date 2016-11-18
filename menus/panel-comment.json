@@ -1,0 +1,18 @@
+{
+    "context-menu": {
+        "atom-text-editor": [{
+            "label": "Toggle panel-comment",
+            "command": "panel-comment:toggle"
+        }]
+    },
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "panel-comment",
+            "submenu": [{
+                "label": "Toggle",
+                "command": "panel-comment:toggle"
+            }]
+        }]
+    }]
+}
