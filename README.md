@@ -1,6 +1,6 @@
 # atom-panel-comment package
 
-Display all comments into a separate panel just in front the source code.
+Display all comments into a separate panel just in front of the source code.
 
 #  Info:
 
@@ -10,12 +10,12 @@ Display all comments into a separate panel just in front the source code.
 
 ## Work with:
 
-- [x] most of langage with block Documentation
-- [x] inline commentary for JS // JSX
+- [x] Most of language with block Documentation
+- [x] Inline commentary for JS // JSX
 
 ## Todo:
 
 - [ ] Improve the order of the commentary
-- [ ] Improve CSS ! Graphist needed ah ah
-- [ ] Automacly relaunch when file change
-- [ ] Make it possible for strange comment, (aka ruby )
+- [ ] Improve CSS
+- [ ] Automatically relaunch when file load/change
+- [ ] Make it possible for strange comment, (ruby)
